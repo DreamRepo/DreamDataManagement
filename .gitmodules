@@ -1,0 +1,12 @@
+[submodule "DreamTIFFReader"]
+	path = DreamTIFFReader
+	url = https://github.com/DreamRepo/DreamTIFFReader.git
+[submodule "ExperimentSenderSacred"]
+	path = ExperimentSenderSacred
+	url = https://github.com/DreamRepo/ExperimentSenderSacred.git
+[submodule "DataManagementToolDocker"]
+	path = DataManagementToolDocker
+	url = https://github.com/DreamRepo/DataManagementToolDocker.git
+[submodule "DreamROItoSacred"]
+	path = DreamROItoSacred
+	url = https://github.com/SonyCSLParis/DreamROItoSacred.git
