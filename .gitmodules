@@ -10,3 +10,6 @@
 [submodule "DreamROItoSacred"]
 	path = DreamROItoSacred
 	url = https://github.com/SonyCSLParis/DreamROItoSacred.git
+[submodule "DreamDatasetExtractor"]
+	path = DreamDatasetExtractor
+	url = https://github.com/DreamRepo/DreamDatasetExtractor.git
